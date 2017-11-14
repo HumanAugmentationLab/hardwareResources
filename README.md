@@ -14,4 +14,5 @@ You can then run vis_stream to see the data you are streaming over lsl.
 If you cannot get the above repo to work, you can try cloning the repository outlined in Online Resources above instead. 
 
 readlsl.m - basic script to load the lsl library and display the data from a stream in terminal
+
 accbot.m - incorporates ros to lsl library and enables the ability to move a neato (used in QEA) with the accelerometer on the muse.
